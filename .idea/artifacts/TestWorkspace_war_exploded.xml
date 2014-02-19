@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="TestWorkspace:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/TestWorkspace_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="TestWorkspace/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="TestWorkspace" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="jstl-1.2_1" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
