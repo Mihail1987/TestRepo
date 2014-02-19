@@ -14,7 +14,7 @@
        <div>
            <table>
                <tr>
-                   <td>Посещений</td>
+                   <td>Количество посещений</td>
                    <td><%=(request.getAttribute("current_count"))%></td>
                </tr>
            </table>
